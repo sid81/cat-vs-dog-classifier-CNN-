@@ -32,13 +32,10 @@ Dense layer:<br>
 - Flatten<br>
 - Dense Size: 128<br>
 - Activation Function: ReLu<br>
-
 - Dense Size: 64<br>
 - Activation Function: ReLu<br>
-
 - Dense Size: 1<br>
 - Activation Function: Sigmoid<br>
-
 - Optimizer: Adam<br>
 - Loss: binary_crossentropy
 
