@@ -1,15 +1,13 @@
 # cat-vs-dog-classifier-CNN-
 
-element {
-  font-size: 75;
-}
+
 
 A binary image classifier that determines whether an image contains a dog or a cat.The train folder contains images of cat and dogs 20,000 images of dogs and cats.There are no duplicate images.
 The test folder contains 5000 images of cats and dogs.
 Each image has been preprocessed to 256x356 pixels with a batch size of 32.
 
 
-<b>Model Architecture:</b><br>
+## <b>Model Architecture:</b><br>
 Input Data Shape: 256x256x3<br>
 Layer 1:<br>
 Convolutional Layer 32 filter Filter shape: 3x3<br>
