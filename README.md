@@ -16,31 +16,31 @@ Layer 1:<br>
 - Strides=2<br>
 
 Layer 2:<br>
-Convolutional Layer 64, filter Filter shape: 3x3<br>
-Activation Function: ReLu<br>
-Max Pooling Pool shape: 2x2<br>
-Strides=2<br>
+- Convolutional Layer 64, filter Filter shape: 3x3<br>
+- Activation Function: ReLu<br>
+- Max Pooling Pool shape: 2x2<br>
+- Strides=2<br>
 
 Layer 3:<br>
-Convolutional Layer 128, filter Filter shape: 3x3<br>
-Activation Function: ReLu<br>
-Max Pooling Pool shape: 2x2<br>
-Strides=2<br>
+- Convolutional Layer 128, filter Filter shape: 3x3<br>
+- Activation Function: ReLu<br>
+- Max Pooling Pool shape: 2x2<br>
+- Strides=2<br>
 
 
 Dense layer:<br>
-Flatten<br>
-Dense Size: 128<br>
-Activation Function: ReLu<br>
+- Flatten<br>
+- Dense Size: 128<br>
+- Activation Function: ReLu<br>
 
-Dense Size: 64<br>
-Activation Function: ReLu<br>
+- Dense Size: 64<br>
+- Activation Function: ReLu<br>
 
-Dense Size: 1<br>
-Activation Function: Sigmoid<br>
+- Dense Size: 1<br>
+- Activation Function: Sigmoid<br>
 
-Optimizer: Adam<br>
-Loss: binary_crossentropy
+- Optimizer: Adam<br>
+- Loss: binary_crossentropy
 
 ## Model summary
 ![image](https://user-images.githubusercontent.com/68815179/198990662-873563bc-6568-46c5-b22d-fb4e776d1eb4.png)
