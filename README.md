@@ -45,3 +45,5 @@ Loss: binary_crossentropy
 ## Model summary
 ![image](https://user-images.githubusercontent.com/68815179/198990662-873563bc-6568-46c5-b22d-fb4e776d1eb4.png)
 
+## Conclusion
+The Architecture and parameter used in this CNN network are capable of producing accuracy of 95.56% on Training data,85% on validation data,on which can be further improved.<br> 
