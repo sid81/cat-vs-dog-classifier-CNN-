@@ -7,7 +7,7 @@ The test folder contains 5000 images of cats and dogs.
 Each image has been preprocessed to 256x356 pixels with a batch size of 32.
 
 
-### <b>Model Architecture:</b><br>
+### <b>Model Architecture:</b>
 Input Data Shape: 256x256x3<br>
 Layer 1:<br>
 Convolutional Layer 32 filter Filter shape: 3x3<br>
