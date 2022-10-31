@@ -47,3 +47,12 @@ Dense layer:<br>
 
 ## Conclusion
 The Architecture and parameter used in this CNN network are capable of producing accuracy of 95.56% on Training data,85% on validation data,on which can be further improved.<br> 
+After i have applied model using flask app which is shown below.
+
+![image](https://user-images.githubusercontent.com/68815179/198992834-95610fa0-1212-4695-b36a-f70fc95ae491.png)
+
+![image](https://user-images.githubusercontent.com/68815179/198992996-df991ab9-8af7-43a1-957d-1293fdd6c6c4.png)
+
+![image](https://user-images.githubusercontent.com/68815179/198993051-419caa48-2961-49e7-b6e0-df2b20fc6bc0.png)
+
+
