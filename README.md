@@ -6,7 +6,7 @@ Each image has been preprocessed to 256x356 pixels with a batch size of 32.
 
 
 Model Architecture:<br>
-Input Data Shape: 256x256x3
+Input Data Shape: 256x256x3<br>
 Layer 1:<br>
 Convolutional Layer 32 filter Filter shape: 3x3
 Activation Function: ReLu
@@ -26,16 +26,16 @@ Max Pooling Pool shape: 2x2
 Strides=2
 
 
-Dense layer:
-Flatten
-Dense Size: 128
-Activation Function: ReLu
+Dense layer:<br>
+Flatten<br>
+Dense Size: 128<br>
+Activation Function: ReLu<br>
 
-Dense Size: 64
-Activation Function: ReLu
+Dense Size: 64<br>
+Activation Function: ReLu<br>
 
-Dense Size: 1
-Activation Function: Sigmoid
+Dense Size: 1<br>
+Activation Function: Sigmoid<br>
 
-Optimizer: Adam
+Optimizer: Adam<br>
 Loss: binary_crossentropy
