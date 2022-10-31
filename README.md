@@ -41,3 +41,7 @@ Activation Function: Sigmoid<br>
 
 Optimizer: Adam<br>
 Loss: binary_crossentropy
+
+## Model summary
+![image](https://user-images.githubusercontent.com/68815179/198990662-873563bc-6568-46c5-b22d-fb4e776d1eb4.png)
+
